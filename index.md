@@ -35,10 +35,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-# Brayden's First CS193 Homework
-
-Some of my favorite things about CS are...
-- many solutions to a single problem
-- multiple pieces that need to fit together like a puzzle
-- problem solving is fun
